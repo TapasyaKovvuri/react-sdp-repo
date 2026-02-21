@@ -68,7 +68,7 @@ const MainNavBar = () => {
         <Route path="/manager-login" element={<ManagerLogin />} />
         <Route path="/customer-login" element={<CustomerLogin />} />
       </Routes>
-   </div>
+   </div> 
     
   );
 };
